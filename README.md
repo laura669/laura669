@@ -14,16 +14,16 @@
 
 - 📍 Nací en **Neiva – Huila, Colombia 🇨🇴**
 - 🎓 Soy estudiante y **aprendiz** de programación
-- 💻 Me apasiona el **mundo del código**, la lógica y las soluciones creativas
-- 🏀 Juego basket cuando no estoy pensando en algoritmos
-- 🧠 Me encanta **aprender constantemente** y salir de mi zona de confort
+- 💻 Me gusta el **mundo del código**, la lógica y las soluciones creativas
+- 🏀 me gusta el basquet 
+- 🧠 Me encanta **aprender** y salir de mi zona de confort
 - 🗣️ Idiomas: Español 🇪🇸 | Inglés (principiante) 🇬🇧
 
 ---
 
-### 🧰 Tecnologias que manejo
+### 🧰 Tecnologias que conozco
 
-#### Lenguajes que manejo  
+#### Lenguajes que conozco
 ![PSeInt](https://img.shields.io/badge/PSeInt-4B0082?style=for-the-badge&logo=data&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -35,7 +35,7 @@
 
 🧩 Siempre lista para resolver problemas como si fueran rompecabezas.
 
-🎯 Objetivo: Convertir ideas en código y sueños en proyectos.
+🎯 Objetivo: Convertir ideas  y sueños en proyectos.
 
 ---
 
